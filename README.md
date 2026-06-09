@@ -1,7 +1,7 @@
 # dev_terminal
 
 ```
-< Type-Hub.Operational_Protocol />
+<Type-Hub.Operational_Protocol/>
 ```
 
 ---
